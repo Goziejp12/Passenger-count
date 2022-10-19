@@ -1,10 +1,18 @@
 body {
     background: url("images/pass.jpeg");
+    height: 100vh;
     text-align: center;
     font-family: 'Anton', sans-serif;
 }
-h1, h2 {
+h1 {
     font-size: 50px;
+    color: aliceblue;
+    text-shadow: 0 0 5px red;
+}
+h2 {
+    font-size: 50px;
+    color: red;
+    text-shadow: 0 0 5px black;
 }
 button {
     margin: 25px 25px;
@@ -23,4 +31,6 @@ button {
 }
 p {
     font-size: 20px;
+    color: black;
+    text-shadow: 0 0 5px red;
 }
