@@ -1,6 +1,6 @@
 let count = 0
 let countEl = document.getElementById("count-el")
-let previousEntries = document.getElementById("previousEnt")
+let previousEntries = document.getElementById("previous-Ent")
 
 function increment() {
     count += 1
